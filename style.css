@@ -22,7 +22,7 @@ body{
 
 header{
     height: 100vh;
-    background-image: linear-gradient(120deg, rgba(241, 147, 251, 0.404) 0%, rgba(245, 87, 108, 0.404) 100%), url(../img/fannel.jpg);
+    background-image: linear-gradient(120deg, rgba(241, 147, 251, 0.404) 0%, rgba(245, 87, 108, 0.404) 100%), url(./img/fannel.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
